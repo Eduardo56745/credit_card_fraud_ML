@@ -22,8 +22,6 @@ input_data = []
 st.sidebar.header("⚙️ Opciones")
 use_random = st.sidebar.button("🎲 Usar valores aleatorios")
 
-]
-
 st.subheader("📥 Ingresa los datos de la transacción")
 
 # Crear inputs dinámicos
