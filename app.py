@@ -21,14 +21,7 @@ input_data = []
 # Botones en la barra lateral
 st.sidebar.header("⚙️ Opciones")
 use_random = st.sidebar.button("🎲 Usar valores aleatorios")
-use_fraud_example = st.sidebar.button("🧪 Prueba de transacción fraudulenta")
 
-# Datos corregidos de una transacción fraudulenta (30 variables)
-fraud_example = [
-    7526.0, 0.008430, 4.137837, -6.240697, 6.675732, 0.768307, -3.353060, -1.631735,
-    0.154612, -2.795892, -6.187891, 5.664395, -9.854485, -0.306167, -10.691196,
-    -0.638498, -2.041974, -1.129056, 0.116453, -1.934666, 0.488378, 0.364514,
-    -0.608057, -0.539528, 0.128940, 1.488481, 0.507963, 0.735822, 0.513574, 1.0
 ]
 
 st.subheader("📥 Ingresa los datos de la transacción")
