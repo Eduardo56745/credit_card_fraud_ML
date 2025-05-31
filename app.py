@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 
 # Cargar el modelo
-model = joblib.load("xgb_model_credit_card_fraud.pkl")  # Ajusta el nombre si es necesario
+model = joblib.load("modelo_fraude.pkl")  # Ajusta el nombre si es necesario
 
 st.set_page_config(page_title="Detector de Fraude", page_icon="🕵️‍♂️")
 
