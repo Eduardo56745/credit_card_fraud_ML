@@ -1,5 +1,5 @@
 # 💳 Detección de Fraude con Tarjetas de Crédito
-
+ 
 Este proyecto fue desarrollado para demostrar cómo el **Machine Learning** puede ayudar a detectar transacciones fraudulentas en tiempo real ⚠️. A partir de un conjunto de datos de tarjetas de crédito anonimizados, se entrenó un modelo capaz de identificar patrones sospechosos y prevenir fraudes financieros 🕵️‍♂️💰.
 
 Forma parte de mis proyectos personales como **Data Scientist**, y el modelo ha sido desplegado como una app interactiva.
